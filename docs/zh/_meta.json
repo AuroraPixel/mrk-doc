@@ -1,0 +1,12 @@
+[
+  {
+    "text": "指南",
+    "link": "/guide/",
+    "activeMatch": "/guide/"
+  },
+  {
+    "text": "在线体验",
+    "link": "https://mrk.auroralpixel.world",
+    "activeMatch": ""
+  }
+]
