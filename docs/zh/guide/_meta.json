@@ -1,1 +1,17 @@
-["index","index2","baseInfo"]
+[
+  "index",
+  {
+    "type": "dir",
+    "name": "back-end",
+    "label": "后端技术手册",
+    "collapsible": true,
+    "collapsed": false
+  },
+  {
+    "type": "dir",
+    "name": "front",
+    "label": "前端技术手册",
+    "collapsible": true,
+    "collapsed": false
+  }
+]
