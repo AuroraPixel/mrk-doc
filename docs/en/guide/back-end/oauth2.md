@@ -1,0 +1,1 @@
+# Based on Spring Security OAuth 2.0, authorization login is implemented.

@@ -1,1 +1,17 @@
-["index"]
+[
+  "index",
+  {
+    "type": "dir",
+    "name": "back-end",
+    "label": "Backend Technical Manual",
+    "collapsible": true,
+    "collapsed": false
+  },
+  {
+    "type": "dir",
+    "name": "front",
+    "label": "Frontend Technical Manual",
+    "collapsible": true,
+    "collapsed": false
+  }
+]
